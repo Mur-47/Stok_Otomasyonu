@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Stok_Otomasyonu" Class="DatabaseDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=AKTAS;Initial Catalog=Stok_Otomasyonu;Integrated Security=True;Trust Server Certificate=True" SettingsObjectName="Stok_İşlemleri_Otomasyonu.Properties.Settings" SettingsPropertyName="Stok_OtomasyonuConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.TBL_Stoklar" Member="TBL_Stoklars">
+    <Type Name="TBL_Stoklar">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Stok_Barkod" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="Stok_Kodu" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="Stok_Adi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Stok_Birim" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="Stok_Alis_Fiyat" Type="System.Decimal" DbType="Decimal(10,2)" CanBeNull="true" />
+      <Column Name="Stok_Satis_Fiyat" Type="System.Decimal" DbType="Decimal(10,2)" CanBeNull="true" />
+      <Column Name="Stok_Alis_KDV" Type="System.Decimal" DbType="Decimal(10,2)" CanBeNull="true" />
+      <Column Name="Stok_Satis_KDV" Type="System.Decimal" DbType="Decimal(10,2)" CanBeNull="true" />
+      <Column Name="Stok_Grup_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Stok_Resim" Type="System.Data.Linq.Binary" DbType="Image" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Stok_Save_User" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Stok_Save_Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Stok_Edit_User" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Stok_Edit_Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TBL_Stok_Grupları" Member="TBL_Stok_Gruplarıs">
+    <Type Name="TBL_Stok_Grupları">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Grup_Adi" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="Grup_Kodu" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="Grup_Save_User" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Grup_Save_Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Grup_Edit_User" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Grup_Edit_Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TBL_CariGruplari" Member="TBL_CariGruplaris">
+    <Type Name="TBL_CariGruplari">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="GRUPADI" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="GRUPKODU" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="SAVEDATE" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="SAVEUSER" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="EDİTDATE" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="EDİTUSER" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TBL_Cariler" Member="TBL_Carilers">
+    <Type Name="TBL_Cariler">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="CARIKODU" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="CARIADI" Storage="__CARIADI" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="VERGIDAIRESI" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="VERGINO" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="GRUPID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ULKE" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="SEHIR" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="ILCE" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="ADRES" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="TELEFON1" Type="System.String" DbType="NVarChar(16)" CanBeNull="true" />
+      <Column Name="TELEFON2" Type="System.String" DbType="NVarChar(16)" CanBeNull="true" />
+      <Column Name="FAX1" Type="System.String" DbType="NVarChar(16)" CanBeNull="true" />
+      <Column Name="FAX2" Type="System.String" DbType="NVarChar(16)" CanBeNull="true" />
+      <Column Name="WEBADRES" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="MAILBILGI" Type="System.String" DbType="NVarChar(300)" CanBeNull="true" />
+      <Column Name="YETKILI1" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="YETKILI2" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="YETKILIMAIL1" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="YETKILIMAIL2" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="SAVEDATE" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="SAVEUSER" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="EDITDATE" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="EDITUSER" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

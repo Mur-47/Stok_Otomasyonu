@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MONSTER\\Desktop\\Proje Uygulamas\u0131\\Stok_\u0130\u015Flemleri_Otomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCB051A-B8E4-40FF-8DA6-A70B14DEFC47}|Stok_\u0130\u015Flemleri_Otomasyonu\\Stok_\u0130\u015Flemleri_Otomasyonu.csproj|C:\\Users\\MONSTER\\Desktop\\Proje Uygulamas\u0131\\Stok_\u0130\u015Flemleri_Otomasyonu\\stok_\u0130\u015Flemleri_otomasyonu\\fonksiyonlar\\mesajlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCB051A-B8E4-40FF-8DA6-A70B14DEFC47}|Stok_\u0130\u015Flemleri_Otomasyonu\\Stok_\u0130\u015Flemleri_Otomasyonu.csproj|solutionrelative:stok_\u0130\u015Flemleri_otomasyonu\\fonksiyonlar\\mesajlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCB051A-B8E4-40FF-8DA6-A70B14DEFC47}|Stok_\u0130\u015Flemleri_Otomasyonu\\Stok_\u0130\u015Flemleri_Otomasyonu.csproj|C:\\Users\\MONSTER\\Desktop\\Proje Uygulamas\u0131\\Stok_\u0130\u015Flemleri_Otomasyonu\\stok_\u0130\u015Flemleri_otomasyonu\\modul_cari\\frmcariaciliskarti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCB051A-B8E4-40FF-8DA6-A70B14DEFC47}|Stok_\u0130\u015Flemleri_Otomasyonu\\Stok_\u0130\u015Flemleri_Otomasyonu.csproj|solutionrelative:stok_\u0130\u015Flemleri_otomasyonu\\modul_cari\\frmcariaciliskarti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCB051A-B8E4-40FF-8DA6-A70B14DEFC47}|Stok_\u0130\u015Flemleri_Otomasyonu\\Stok_\u0130\u015Flemleri_Otomasyonu.csproj|C:\\Users\\MONSTER\\Desktop\\Proje Uygulamas\u0131\\Stok_\u0130\u015Flemleri_Otomasyonu\\stok_\u0130\u015Flemleri_otomasyonu\\modul_cari\\frmcariaciliskarti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CCB051A-B8E4-40FF-8DA6-A70B14DEFC47}|Stok_\u0130\u015Flemleri_Otomasyonu\\Stok_\u0130\u015Flemleri_Otomasyonu.csproj|solutionrelative:stok_\u0130\u015Flemleri_otomasyonu\\modul_cari\\frmcariaciliskarti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCB051A-B8E4-40FF-8DA6-A70B14DEFC47}|Stok_\u0130\u015Flemleri_Otomasyonu\\Stok_\u0130\u015Flemleri_Otomasyonu.csproj|C:\\Users\\MONSTER\\Desktop\\Proje Uygulamas\u0131\\Stok_\u0130\u015Flemleri_Otomasyonu\\stok_\u0130\u015Flemleri_otomasyonu\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCB051A-B8E4-40FF-8DA6-A70B14DEFC47}|Stok_\u0130\u015Flemleri_Otomasyonu\\Stok_\u0130\u015Flemleri_Otomasyonu.csproj|solutionrelative:stok_\u0130\u015Flemleri_otomasyonu\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCB051A-B8E4-40FF-8DA6-A70B14DEFC47}|Stok_\u0130\u015Flemleri_Otomasyonu\\Stok_\u0130\u015Flemleri_Otomasyonu.csproj|C:\\Users\\MONSTER\\Desktop\\Proje Uygulamas\u0131\\Stok_\u0130\u015Flemleri_Otomasyonu\\stok_\u0130\u015Flemleri_otomasyonu\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CCB051A-B8E4-40FF-8DA6-A70B14DEFC47}|Stok_\u0130\u015Flemleri_Otomasyonu\\Stok_\u0130\u015Flemleri_Otomasyonu.csproj|solutionrelative:stok_\u0130\u015Flemleri_otomasyonu\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCB051A-B8E4-40FF-8DA6-A70B14DEFC47}|Stok_\u0130\u015Flemleri_Otomasyonu\\Stok_\u0130\u015Flemleri_Otomasyonu.csproj|c:\\users\\monster\\desktop\\proje uygulamas\u0131\\stok_\u0130\u015Flemleri_otomasyonu\\stok_\u0130\u015Flemleri_otomasyonu\\fonksiyonlar\\formlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCB051A-B8E4-40FF-8DA6-A70B14DEFC47}|Stok_\u0130\u015Flemleri_Otomasyonu\\Stok_\u0130\u015Flemleri_Otomasyonu.csproj|solutionrelative:stok_\u0130\u015Flemleri_otomasyonu\\fonksiyonlar\\formlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Formlar.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Proje Uygulamas\u0131\\Stok_\u0130\u015Flemleri_Otomasyonu\\Stok_\u0130\u015Flemleri_Otomasyonu\\Fonksiyonlar\\Formlar.cs",
+              "RelativeDocumentMoniker": "Stok_\u0130\u015Flemleri_Otomasyonu\\Fonksiyonlar\\Formlar.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Proje Uygulamas\u0131\\Stok_\u0130\u015Flemleri_Otomasyonu\\Stok_\u0130\u015Flemleri_Otomasyonu\\Fonksiyonlar\\Formlar.cs",
+              "RelativeToolTip": "Stok_\u0130\u015Flemleri_Otomasyonu\\Fonksiyonlar\\Formlar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T23:48:59.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mesajlar.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Proje Uygulamas\u0131\\Stok_\u0130\u015Flemleri_Otomasyonu\\Stok_\u0130\u015Flemleri_Otomasyonu\\Fonksiyonlar\\Mesajlar.cs",
+              "RelativeDocumentMoniker": "Stok_\u0130\u015Flemleri_Otomasyonu\\Fonksiyonlar\\Mesajlar.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Proje Uygulamas\u0131\\Stok_\u0130\u015Flemleri_Otomasyonu\\Stok_\u0130\u015Flemleri_Otomasyonu\\Fonksiyonlar\\Mesajlar.cs",
+              "RelativeToolTip": "Stok_\u0130\u015Flemleri_Otomasyonu\\Fonksiyonlar\\Mesajlar.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T23:08:21.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCariAcilisKarti.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Proje Uygulamas\u0131\\Stok_\u0130\u015Flemleri_Otomasyonu\\Stok_\u0130\u015Flemleri_Otomasyonu\\Modul_Cari\\FrmCariAcilisKarti.cs",
+              "RelativeDocumentMoniker": "Stok_\u0130\u015Flemleri_Otomasyonu\\Modul_Cari\\FrmCariAcilisKarti.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Proje Uygulamas\u0131\\Stok_\u0130\u015Flemleri_Otomasyonu\\Stok_\u0130\u015Flemleri_Otomasyonu\\Modul_Cari\\FrmCariAcilisKarti.cs",
+              "RelativeToolTip": "Stok_\u0130\u015Flemleri_Otomasyonu\\Modul_Cari\\FrmCariAcilisKarti.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAADwv4kAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T22:13:40.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmCariAcilisKarti.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Proje Uygulamas\u0131\\Stok_\u0130\u015Flemleri_Otomasyonu\\Stok_\u0130\u015Flemleri_Otomasyonu\\Modul_Cari\\FrmCariAcilisKarti.cs",
+              "RelativeDocumentMoniker": "Stok_\u0130\u015Flemleri_Otomasyonu\\Modul_Cari\\FrmCariAcilisKarti.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Proje Uygulamas\u0131\\Stok_\u0130\u015Flemleri_Otomasyonu\\Stok_\u0130\u015Flemleri_Otomasyonu\\Modul_Cari\\FrmCariAcilisKarti.cs [Design]",
+              "RelativeToolTip": "Stok_\u0130\u015Flemleri_Otomasyonu\\Modul_Cari\\FrmCariAcilisKarti.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T22:11:39.208Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnaForm.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Proje Uygulamas\u0131\\Stok_\u0130\u015Flemleri_Otomasyonu\\Stok_\u0130\u015Flemleri_Otomasyonu\\AnaForm.cs",
+              "RelativeDocumentMoniker": "Stok_\u0130\u015Flemleri_Otomasyonu\\AnaForm.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Proje Uygulamas\u0131\\Stok_\u0130\u015Flemleri_Otomasyonu\\Stok_\u0130\u015Flemleri_Otomasyonu\\AnaForm.cs",
+              "RelativeToolTip": "Stok_\u0130\u015Flemleri_Otomasyonu\\AnaForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T22:32:12.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnaForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\Proje Uygulamas\u0131\\Stok_\u0130\u015Flemleri_Otomasyonu\\Stok_\u0130\u015Flemleri_Otomasyonu\\AnaForm.cs",
+              "RelativeDocumentMoniker": "Stok_\u0130\u015Flemleri_Otomasyonu\\AnaForm.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\Proje Uygulamas\u0131\\Stok_\u0130\u015Flemleri_Otomasyonu\\Stok_\u0130\u015Flemleri_Otomasyonu\\AnaForm.cs [Design]",
+              "RelativeToolTip": "Stok_\u0130\u015Flemleri_Otomasyonu\\AnaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:50:17.383Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
