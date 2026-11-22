@@ -1,0 +1,18 @@
+
+
+# Repository hygiene: generated files and local settings
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.vsidx
+FileContentIndex/
+*.log
+TestResults/
+*.mdf
+*.ldf
+*.bak
+.env
+.env.*
+!.env.example
